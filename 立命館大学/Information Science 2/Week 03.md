@@ -28,9 +28,9 @@ A----e----B
 两点之间有一条以上的边 = adjacent (邻接)
 
 密度计算公式
-\\[Density = \frac{2 \times size}{order \times (order - 1)}\\]
+$Density = \frac{2 \times size}{order \times (order - 1)}$
 中文公式
-\\[密度 = \frac{2 \times 边数}{顶点数 \times (顶点数 - 1)}\\]
+$密度 = \frac{2 \times 边数}{顶点数 \times (顶点数 - 1)}$
 
 例子：
 ![](media/15162660316183/15162682310788.jpg)
